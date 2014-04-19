@@ -33,6 +33,7 @@ path/to/sdk/platform-tools/adb uninstall com.pwnetics.glass.haiku
 This app downloads content from Reddit and therefore needs internet access permissions:
 * Access Network State -- determine whether the network is accessible
 * Internet -- download haiku content
+* Development -- required for custom voice command
 
 # Licensing
 This code is licensed under the Affero General Public License (AGPL) 3.0.
